@@ -1,0 +1,15 @@
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\bin\Debug\net7.0\задача_2.exe
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\bin\Debug\net7.0\задача_2.deps.json
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\bin\Debug\net7.0\задача_2.runtimeconfig.json
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\bin\Debug\net7.0\задача_2.dll
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\bin\Debug\net7.0\задача_2.pdb
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.csproj.AssemblyReference.cache
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.AssemblyInfoInputs.cache
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.AssemblyInfo.cs
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.csproj.CoreCompileInputs.cache
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.dll
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\refint\задача_2.dll
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.pdb
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\задача_2.genruntimeconfig.cache
+C:\Users\Awary\Desktop\Учеба\Домашняя работа Семинары C#\Домашняя работа\6_семинар\задача_2\obj\Debug\net7.0\ref\задача_2.dll
